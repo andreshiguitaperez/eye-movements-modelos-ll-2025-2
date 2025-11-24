@@ -17,7 +17,9 @@ https://www.openml.org/search?type=data&sort=runs&status=active&qualities.Number
 **NoteBook:**
 Proyecto_Machine_Learning_Movimiento_Ocular_grupo21_EntregaFinal.ipynb
 
-**Url de Presentación:**
+**Url de Presentación**
+Url en Youtube: https://youtu.be/LMKvuT4M19w
+Url en Drive: https://drive.google.com/file/d/19eLvp5oj4HLwVxnkLF77t-PbcQgPBe5b/view?usp=sharing
 
 **Profesor: JULIAN DAVID ARIAS LONDOÑO correo: julian.ariasl@udea.edu.co**
 
